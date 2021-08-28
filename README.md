@@ -10,3 +10,7 @@ Visual studio project has the settings for the Include
 Directories and the linker but it would require configuration
 depending on the installation location of the MySQL C++ 
 Connector.
+
+The source code outputs anamolous transactions to both
+screen and file. The MySQL dump for the database schema 
+and the data is provided.
