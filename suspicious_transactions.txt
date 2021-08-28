@@ -1,0 +1,6 @@
+account_number                     	merchant_description               	transaction_number                 	transaction_amount                 	last_name      	first_name     	average        	
+38829                              	230 WEST ALABAMA APART 713-5298707   OH	129                                	1263.27                            	Simona         	Morasca        	38.4701        	
+38829                              	230 WEST ALABAMA APART 713-5298707   OH	76                                 	1266.56                            	Simona         	Morasca        	38.4701        	
+33717                              	CINFIN-PERSONAL-INSUR  888-242-0888  CA	97                                 	3785                               	Veronika       	Inouye         	123.656        	
+33717                              	MIDWESTERN AUTO GROUP  DUBLIN        CA	43                                 	3505.28                            	Veronika       	Inouye         	123.656        	
+25770                              	ENTERPRISE RENT-A-CAR  PHOENIX       NJ	31                                 	556.45                             	Karl           	Klonowski      	54.7554        	
