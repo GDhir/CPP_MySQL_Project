@@ -20,7 +20,7 @@ int main(){
 
 	try {
 
-		Session sess("localhost", "root", "Zjae3783@123");
+		Session sess("localhost", "root", "********");
 		Schema dbAccounts = sess.getSchema("account_info");
 		// or Schema db(sess, "test");
 
