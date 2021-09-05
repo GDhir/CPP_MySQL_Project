@@ -15,7 +15,7 @@ int main(){
 
 		// Create a session object with your database username and password
 		mysqlx::Session sess("localhost", "root", "*********");
-
+    
 		// Use the database account_info having tables transactions and account_info
 		sess.sql("USE account_info").execute();
 
